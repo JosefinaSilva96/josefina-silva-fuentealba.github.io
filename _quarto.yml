@@ -16,6 +16,6 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: lumen
     css: styles.css
 
