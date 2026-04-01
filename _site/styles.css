@@ -25,7 +25,16 @@ h1, h2, h3 {
   color: #1a1a1a;
 }
 
-/* Buttons (Email, GitHub) */
+/* Background */
+body {
+  background-color: #faf8f4;
+}
+
+/* Force black name and buttons */
+.about-entity .about-name {
+  color: #1a1a1a !important;
+}
+
 .btn-outline-dark {
   border-color: #1a1a1a !important;
   color: #1a1a1a !important;
@@ -33,14 +42,5 @@ h1, h2, h3 {
 
 .btn-outline-dark:hover {
   background-color: #1a1a1a !important;
-  color: #f5f0e8 !important;
-}
-
-/* Background */
-body {
-  background-color: #faf8f4;
-}
-/* Force black headings */
-.about-entity .about-name {
-  color: #1a1a1a !important;
+  color: #ffffff !important;
 }
