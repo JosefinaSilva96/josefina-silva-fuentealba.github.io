@@ -1,1 +1,42 @@
-/* css styles */
+/* Navbar */
+.navbar {
+  background-color: #4a7c59 !important;
+}
+
+.navbar-brand, .nav-link {
+  color: #f5f0e8 !important;
+}
+
+.nav-link:hover {
+  color: #d4e6d4 !important;
+}
+
+/* Links */
+a {
+  color: #4a7c59 !important;
+}
+
+a:hover {
+  color: #2d5a3d !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #2d5a3d;
+}
+
+/* Buttons (Email, GitHub) */
+.btn-outline-dark {
+  border-color: #4a7c59 !important;
+  color: #4a7c59 !important;
+}
+
+.btn-outline-dark:hover {
+  background-color: #4a7c59 !important;
+  color: #f5f0e8 !important;
+}
+
+/* Background */
+body {
+  background-color: #faf8f4;
+}
