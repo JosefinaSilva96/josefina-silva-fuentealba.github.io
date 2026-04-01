@@ -1,7 +1,19 @@
 ---
 title: "Josefina Silva Fuentealba"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:josefinasilvafuente@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/JosefinaSilva96
 ---
 
-This is a Quarto website.
+Junior Economist with experience in international organisations, 
+specialising in public finance and governance, quantitative policy analysis, and 
+country-level diagnostics. Currently at the World Bank Group.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Fluent in English, French, and Spanish.
