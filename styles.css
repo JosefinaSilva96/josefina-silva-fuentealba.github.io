@@ -40,3 +40,7 @@ h1, h2, h3 {
 body {
   background-color: #faf8f4;
 }
+/* Force black headings */
+.about-entity .about-name {
+  color: #1a1a1a !important;
+}
